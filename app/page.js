@@ -114,7 +114,7 @@ export default function Home() {
       >
         {/* Page Title */}
         <Typography variant="h2" color="#020402" my={4}> {/* Nearly black */}
-          Manage Pantry
+          Manage Inventory
         </Typography>
 
         {/* Search Input */}
